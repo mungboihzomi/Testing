@@ -5,20 +5,21 @@
     "type": "Galhiam",
     "title": "Na Theih Loh Man Hizaw",
     "key": "Key E",
-    "body": "na geel ngei hiam!\nKi sathei..."
+    "body": "VERSE\nna geel ngei hiam!\nKi sathei..."
   },
   {
     "number": 2,
     "type": "Galhiam",
     "title": "Ngaklah Veng",
     "key": "Key D",
-    "body": "hshsjsj..."
+    "body": "VERSE\nhshsjsj..."
   },
   {
     "number": 3,
-    "type": "Galhiam",
-    "title": "Hymn Title Three",
+    "type": "Song",
+    "title": "Example Song",
+    "artist": "Titus Band",
     "key": "Key G",
-    "body": "Verse 1 line one\nVerse 1 line two\n\nVerse 2 line one\nVerse 2 line two"
+    "body": "VERSE\nExample lyrics..."
   }
 ]
