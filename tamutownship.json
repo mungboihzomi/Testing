@@ -1,50 +1,51 @@
+
 {
-"banners": [
-{
-"image": "https://www.google.com/search?client=ms-android-vivo-rvo2&hs=i9WB&sa=X&sca_esv=0f046cdf8b4ca31a&sxsrf=APpeQnuJU03-Iwg7LP9OGTRHfNnMQdPBRQ:1792762191467&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE6A5_9xraAmHsehE8ybQanmrbaHqhKWXwuMOLXboWrmem9yPly_Akm7xaM4qDxT5KZSO2q6_1WC7LYVXq_S8VsWOKhsfZB6xiSqSYcoI8EGGniOdJviRnNasARbrjBa2cbNmrXIW94qm8zN1LyZvHYeQB2qr90sB8z9N2GgCW9Oi_cy7uA&q=%E1%80%90%E1%80%99%E1%80%B0%E1%80%B8%E1%80%99%E1%80%BC%E1%80%AD%E1%80%AF%E1%80%B7+%E1%80%A1%E1%80%9C%E1%80%BE%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8&ved=2ahUKEwiHw9rMn9CXAxVEkeEIHY94BgQQtKgLegQIHRAB&biw=392&bih=784&dpr=2.75#sv=CAMSZhoyKhBlLWtfeWdNa0RLUy1vNTdNMg5rX3lnTWtES1MtbzU3TToOZzNnMUk0cWhwZEdZS00gBCokCg5LNlh6d2ZMeUdad3lDTRIQZS1rX3lnTWtES1MtbzU3TRgAMAFKBAgBEAJQARgHIJCok8gDSggQAhgBIAIoAQ",
-"title": "Welcome to Our Town"
-},
-{
-"image": "https://www.google.com/search?client=ms-android-vivo-rvo2&hs=i9WB&sa=X&sca_esv=0f046cdf8b4ca31a&sxsrf=APpeQnuJU03-Iwg7LP9OGTRHfNnMQdPBRQ:1792762191467&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE6A5_9xraAmHsehE8ybQanmrbaHqhKWXwuMOLXboWrmem9yPly_Akm7xaM4qDxT5KZSO2q6_1WC7LYVXq_S8VsWOKhsfZB6xiSqSYcoI8EGGniOdJviRnNasARbrjBa2cbNmrXIW94qm8zN1LyZvHYeQB2qr90sB8z9N2GgCW9Oi_cy7uA&q=%E1%80%90%E1%80%99%E1%80%B0%E1%80%B8%E1%80%99%E1%80%BC%E1%80%AD%E1%80%AF%E1%80%B7+%E1%80%A1%E1%80%9C%E1%80%BE%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8&ved=2ahUKEwiHw9rMn9CXAxVEkeEIHY94BgQQtKgLegQIHRAB&biw=392&bih=784&dpr=2.75#sv=CAMSZBoyKhBlLUs2WHp3Zkx5R1p3eUNNMg5LNlh6d2ZMeUdad3lDTToOZzNnMUk0cWhwZEdZS00gBCokCg5rX3lnTWtES1MtbzU3TRIQZS1LNlh6d2ZMeUdad3lDTRgAMAFKBAgBEAIYByDz5fOUDkoIEAIYASACKAE",
-"title": "Town Services"
-},
-{
-"image": "https://www.google.com/search?client=ms-android-vivo-rvo2&hs=i9WB&sa=X&sca_esv=0f046cdf8b4ca31a&sxsrf=APpeQnuJU03-Iwg7LP9OGTRHfNnMQdPBRQ:1792762191467&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE6A5_9xraAmHsehE8ybQanmrbaHqhKWXwuMOLXboWrmem9yPly_Akm7xaM4qDxT5KZSO2q6_1WC7LYVXq_S8VsWOKhsfZB6xiSqSYcoI8EGGniOdJviRnNasARbrjBa2cbNmrXIW94qm8zN1LyZvHYeQB2qr90sB8z9N2GgCW9Oi_cy7uA&q=%E1%80%90%E1%80%99%E1%80%B0%E1%80%B8%E1%80%99%E1%80%BC%E1%80%AD%E1%80%AF%E1%80%B7+%E1%80%A1%E1%80%9C%E1%80%BE%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8&ved=2ahUKEwiHw9rMn9CXAxVEkeEIHY94BgQQtKgLegQIHRAB&biw=392&bih=784&dpr=2.75#sv=CAMSZhoyKhBlLU1wU1pDVDUtcE1jd0pNMg5NcFNaQ1Q1LXBNY3dKTToOZzNnMUk0cWhwZEdZS00gBCokCg5rX3lnTWtES1MtbzU3TRIQZS1NcFNaQ1Q1LXBNY3dKTRgAMAFKBAgBEAJQARgHIIOsp6YKSggQAhgBIAIoAQ",
-"title": "Explore Our Town"
-}
-],
-"towns": [
-{
-"id": "office_001",
-"name": "မြို့နယ်ရုံး",
-"name_en": "Township Office",
-"category": "ရုံးဌာန",
-"category_en": "Office",
-"phone": "09123456789",
-"address": "မြို့နယ်၊ လမ်းအမှတ် ၁",
-"address_en": "Township, Road 1",
-"hours": "မနက် ၉ နာရီ - ညနေ ၄ နာရီ",
-"hours_en": "9 AM - 4 PM",
-"description": "အထွေထွေ ရုံးဝန်ဆောင်မှု",
-"description_en": "General office services",
-"latitude": "25.5788",
-"longitude": "91.8933"
-},
-{
-"id": "hospital_001",
-"name": "ဆေးရုံ",
-"name_en": "General Hospital",
-"category": "ဆေးရုံ",
-"category_en": "Hospital",
-"phone": "09987654321",
-"address": "မြို့လယ်",
-"address_en": "Town Center",
-"hours": "၂၄ နာရီ",
-"hours_en": "24 hours",
-"description": "ကျန်းမာရေးဝန်ဆောင်မှု",
-"description_en": "Healthcare services",
-"latitude": "",
-"longitude": ""
-}
-]
+  "banners": [
+    {
+      "image": "",
+      "title": "Welcome to Our Town"
+    },
+    {
+      "image": "https://YOUR_IMAGE_URL/banner2.jpg",
+      "title": "Town Services"
+    },
+    {
+      "image": "https://YOUR_IMAGE_URL/banner3.jpg",
+      "title": "Explore Our Town"
+    }
+  ],
+  "towns": [
+    {
+      "id": "office_001",
+      "name": "မြို့နယ်ရုံး",
+      "name_en": "Township Office",
+      "category": "ရုံးဌာန",
+      "category_en": "Office",
+      "phone": "09123456789",
+      "address": "မြို့နယ်၊ လမ်းအမှတ် ၁",
+      "address_en": "Township, Road 1",
+      "hours": "မနက် ၉ နာရီ - ညနေ ၄ နာရီ",
+      "hours_en": "9 AM - 4 PM",
+      "description": "အထွေထွေ ရုံးဝန်ဆောင်မှု",
+      "description_en": "General office services",
+      "latitude": "25.5788",
+      "longitude": "91.8933"
+    },
+    {
+      "id": "hospital_001",
+      "name": "ဆေးရုံ",
+      "name_en": "General Hospital",
+      "category": "ဆေးရုံ",
+      "category_en": "Hospital",
+      "phone": "09987654321",
+      "address": "မြို့လယ်",
+      "address_en": "Town Center",
+      "hours": "၂၄ နာရီ",
+      "hours_en": "24 hours",
+      "description": "ကျန်းမာရေးဝန်ဆောင်မှု",
+      "description_en": "Healthcare services",
+      "latitude": "",
+      "longitude": ""
+    }
+  ]
 }
