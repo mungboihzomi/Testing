@@ -1,16 +1,15 @@
-
 {
   "banners": [
     {
-      "image": "https://example.com/banner1.jpg",
+      "image": "https://YOUR_IMAGE_URL/banner1.jpg",
       "title": "Welcome to Our Town"
     },
     {
-      "image": "https://example.com/banner2.jpg",
+      "image": "https://YOUR_IMAGE_URL/banner2.jpg",
       "title": "Town Services"
     },
     {
-      "image": "https://example.com/banner3.jpg",
+      "image": "https://YOUR_IMAGE_URL/banner3.jpg",
       "title": "Explore Our Town"
     }
   ],
