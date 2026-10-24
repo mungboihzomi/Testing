@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name_en": "Tamu Hotel",
+    "name_mm": "တမူးဟိုတယ်",
+    "category": "hotel",
+    "address_en": "Bo Gyoke Road, Tamu",
+    "address_mm": "ဗိုလ်ချုပ်လမ်း၊ တမူးမြို့",
+    "phone": "+95 9 123 456 789",
+    "lat": 24.2145,
+    "lng": 94.3082,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600",
+    "description_en": "Premier hotel in Tamu with AC rooms, restaurant and border pass assistance.",
+    "description_mm": "တမူးမြို့ရဲ့ အကောင်းဆုံးဟိုတယ်၊ AC အခန်း၊ စားသောက်ဆိုင်နှင့် နယ်စပ်ဖြတ်သန်းကူညီမှု။",
+    "rating": 4.3,
+    "open_hours_en": "24 Hours",
+    "open_hours_mm": "၂၄ နာရီ"
+  },
+  {
+    "id": 7,
+    "name_en": "Tamu-Moreh Border Gate",
+    "name_mm": "တမူး-မိုးရေးနယ်စပ်ဂိတ်",
+    "category": "border",
+    "address_en": "Indo-Myanmar Friendship Gate, 2km from Tamu",
+    "address_mm": "အိန္ဒိယ-မြန်မာချစ်ကြည်ရေးဂိတ်",
+    "phone": "+95 73 12300",
+    "lat": 24.237,
+    "lng": 94.315,
+    "image": "https://images.unsplash.com/photo-1488085061387-422e29b40080?w=600",
+    "description_en": "International border crossing. Passport required. Open 7AM-4PM.",
+    "description_mm": "နိုင်ငံတကာနယ်စပ်ဖြတ်သန်းဂိတ်။ ပတ်စပို့လိုအပ်သည်။",
+    "rating": 4.6,
+    "open_hours_en": "7AM - 4PM",
+    "open_hours_mm": "နံနက် ၇နာရီ - ညနေ ၄နာရီ"
+  }
+  // ... 13 more places same structure as preview
+]
