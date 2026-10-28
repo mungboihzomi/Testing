@@ -1,0 +1,16 @@
+
+{
+  "music": [
+    {
+      "id": "1",
+      "title": "Piano Music",
+      "artist": "Mungboihzomi",
+      "album": "Piano Collection",
+      "genre": "Instrumental",
+      "duration": "00:00",
+      "image": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=600",
+      "source": "https://raw.githubusercontent.com/mungboihzomi/Testing/main/PIANO.mp3",
+      "site": "Mungboihzomi Music"
+    }
+  ]
+}
