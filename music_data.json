@@ -1,0 +1,26 @@
+[
+  {
+    "mediaId": "1",
+    "mediaTitle": "Chit Thu",
+    "mediaArtist": "Mung Boih",
+    "mediaArt": "https://i.imgur.com/abc1.jpg",
+    "mediaUrl": "https://filesamples.com/samples/audio/mp3/sample3.mp3",
+    "mediaDuration": "185"
+  },
+  {
+    "mediaId": "2",
+    "mediaTitle": "Nang Hta",
+    "mediaArtist": "Jane",
+    "mediaArt": "https://i.imgur.com/abc2.jpg",
+    "mediaUrl": "https://filesamples.com/samples/audio/mp3/sample1.mp3",
+    "mediaDuration": "210"
+  },
+  {
+    "mediaId": "3",
+    "mediaTitle": "Khuasak",
+    "mediaArtist": "Tamu Artist",
+    "mediaArt": "https://i.imgur.com/abc3.jpg",
+    "mediaUrl": "https://filesamples.com/samples/audio/mp3/sample2.mp3",
+    "mediaDuration": "00:03:30"
+  }
+]
