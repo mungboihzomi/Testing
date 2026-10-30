@@ -1,26 +1,26 @@
 [
   {
-    "mediaId": "1",
-    "mediaTitle": "Chit Thu",
-    "mediaArtist": "Mung Boih",
-    "mediaArt": "https://i.imgur.com/abc1.jpg",
-    "mediaUrl": "https://filesamples.com/samples/audio/mp3/sample3.mp3",
-    "mediaDuration": "185"
+    "title": "Nights",
+    "artist": "Frank Ocean",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "cover": "https://picsum.photos/seed/nights/300/300"
   },
   {
-    "mediaId": "2",
-    "mediaTitle": "Nang Hta",
-    "mediaArtist": "Jane",
-    "mediaArt": "https://i.imgur.com/abc2.jpg",
-    "mediaUrl": "https://filesamples.com/samples/audio/mp3/sample1.mp3",
-    "mediaDuration": "210"
+    "title": "Starboy",
+    "artist": "The Weeknd",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "cover": "https://picsum.photos/seed/starboy/300/300"
   },
   {
-    "mediaId": "3",
-    "mediaTitle": "Khuasak",
-    "mediaArtist": "Tamu Artist",
-    "mediaArt": "https://i.imgur.com/abc3.jpg",
-    "mediaUrl": "https://filesamples.com/samples/audio/mp3/sample2.mp3",
-    "mediaDuration": "00:03:30"
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "cover": "https://picsum.photos/seed/blinding/300/300"
+  },
+  {
+    "title": "Myanmar - A Myaing",
+    "artist": "Myanmar Artist",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+    "cover": "https://picsum.photos/seed/myanmar/300/300"
   }
 ]
